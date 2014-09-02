@@ -1,0 +1,34 @@
+8
+
+dir
+7317
+https://svn.cakephp.org/repo/branches/1.2.x.x/app/vendors/shells
+https://svn.cakephp.org/repo
+
+
+
+2007-05-12T20:00:55.024528Z
+5055
+phpnut
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3807eeeb-6ff5-0310-8944-8be069107fe0
+
+tasks
+dir
+
+templates
+dir
+
